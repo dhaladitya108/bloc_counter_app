@@ -1,6 +1,7 @@
-# bloc_counter_app
-
-A new Flutter project.
+# Bloc Counter App
+This is just a simple counter app which is the default starting app of flutter but implemented using Cubit(subset of Bloc).
+This is most simple possible app can be implemented using Cubit which is the subset of bloc.
+It is ofc recommended to learn cubit first as it's simpler than the bloc
 
 ## Getting Started
 
